@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darylo2
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning sql
+- 👀 I’m a data analyst
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 you can reach me here
 
