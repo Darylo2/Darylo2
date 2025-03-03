@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Darylo2
-- 👀 I’m a data analyst
-- 🌱 I’m currently learning Python
+- 👀 **Data Analyst | Data Enthusiast | Problem Solver**
+- 📊 Experienced in **SQL, Excel, Tableau, R, and Python**
+- 🏦 Currently working in **Global Trade Unit at Access Bank Plc**
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 you can reach me here
 
